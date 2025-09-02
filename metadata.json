@@ -1,0 +1,5 @@
+{
+  "name": "Java Code Grader AI (updated)",
+  "description": "An AI-powered application for teachers to automatically grade students' Java code submissions based on custom rubrics and expected outputs.",
+  "requestFramePermissions": []
+}
